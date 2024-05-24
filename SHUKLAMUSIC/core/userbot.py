@@ -119,7 +119,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("nkd_korean_drama_hindi)
+                await self.three.join_chat("SHIVANSH474")
                 await self.three.join_chat("nkd_korean_drama_hindi")
                 await self.three.join_chat("+uLeJn5hf62MxYzg1")
                 await self.three.join_chat("+JmL9YwdckltmOTFl")
