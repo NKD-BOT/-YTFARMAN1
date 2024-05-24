@@ -65,10 +65,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("SHIVANSH474")
-                await self.one.join_chat("MASTIWITHFRIENDSXD")
-                await self.one.join_chat("STRANGERSXWORLD")
-                await self.one.join_chat("strangerbotslogs")
+                await self.one.join_chat("bot_nkd")
+                await self.one.join_chat("nkd_korean_drama_hindi")
+                await self.one.join_chat("+uLeJn5hf62MxYzg1")
+                await self.one.join_chat("+JmL9YwdckltmOTFl")
 
             except:
                 pass
@@ -95,10 +95,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("SHIVANSH474")
-                await self.two.join_chat("MASTIWITHFRIENDSXD")
-                await self.two.join_chat("STRANGERSXWORLD")
-                await self.two.join_chat("strangerbotslogs")
+                await self.two.join_chat("bot_nkd")
+                await self.two.join_chat("nkd_korean_drama_hindi")
+                await self.two.join_chat("+uLeJn5hf62MxYzg1")
+                await self.two.join_chat("+JmL9YwdckltmOTFl")
             except:
                 pass
             assistants.append(2)
@@ -119,10 +119,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("SHIVANSH474")
-                await self.three.join_chat("MASTIWITHFRIENDSXD")
-                await self.three.join_chat("STRANGERSXWORLD")
-                await self.three.join_chat("strangerbotslogs")
+                await self.three.join_chat("bot_nkd)
+                await self.three.join_chat("nkd_korean_drama_hindi")
+                await self.three.join_chat("+uLeJn5hf62MxYzg1")
+                await self.three.join_chat("+JmL9YwdckltmOTFl")
             except:
                 pass
             assistants.append(3)
@@ -142,10 +142,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("SHIVANSH474")
-                await self.four.join_chat("MASTIWITHFRIENDSXD")
-                await self.four.join_chat("STRANGERSXWORLD")
-                await self.four.join_chat("strangerbotslogs")
+                await self.four.join_chat("bot_nkd")
+                await self.four.join_chat("nkd_korean_drama_hindi")
+                await self.four.join_chat("+uLeJn5hf62MxYzg1")
+                await self.four.join_chat("+JmL9YwdckltmOTFl")
             except:
                 pass
             assistants.append(4)
@@ -165,10 +165,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("SHIVANSH474")
-                await self.five.join_chat("MASTIWITHFRIENDSXD")
-                await self.five.join_chat("STRANGERSXWORLD")
-                await self.five.join_chat("strangerbotslogs")
+                await self.five.join_chat("bot_nkd")
+                await self.five.join_chat("nkd_korean_drama_hindi")
+                await self.five.join_chat("+uLeJn5hf62MxYzg1")
+                await self.five.join_chat("+JmL9YwdckltmOTFl")
             except:
                 pass
             assistants.append(5)
